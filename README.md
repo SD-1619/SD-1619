@@ -14,8 +14,8 @@
   Hey there! I'm Sangram Dighe, an aspiring AI enthusiast currently in my final year of Bachelor's in AI and Data Science. Proficient in Python and Java, I delve into the realms of AI, ML, and DL. My journey includes web development experience and a solid grasp of algorithms. Skilled in tools like NumPy, Pandas, and TensorFlow, I'm passionate about AI's applications in NLP, computer vision, and neural networks.
 </p>
 - 🔭 I’m currently learning **Computer Vision, Data Science, Transfer learning**<br>
-- 📫 How to reach me [Contact me](https://sangram.aisaioit.in/#contact) OR **sangramdighe12345@gmail.com**<br>
-- 📄 Know about my experiences [Resume Here](https://sangram.aisaioit.in/img/Sangram_Dighe_Resume_cv.pdf){:target="_blank"}<br>
+- 📫 You can contact me <a href='https://sangram.aisaioit.in/#contact' target='_blank'>here</a><br>
+- 📄 Know about my experiences <a href='https://sangram.aisaioit.in/img/Sangram_Dighe_Resume_cv.pdf' target='_blank'>Resume Here</a><br>
 
 
 
@@ -64,4 +64,7 @@
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SD-1619&theme=nord" alt="sd-1619" /></a> 
 </p>
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SD-1619&show_icons=true&locale=en&theme=dark&private=true" alt="SD-1619" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SD-1619&show_icons=true&locale=en&theme=dark"" alt="SD-1619" /></p>
 
