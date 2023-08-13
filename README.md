@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Sangram Dighe</h1>
 
-<img align='right' width="410" height="300" alt='coding' src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif">
 <img align='left' width='410' height='300' src="gif/neural.gif" width="900"/>
-
+&nbsp;&nbsp;
+<img align='right' width="410" height="300" alt='coding' src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
