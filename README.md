@@ -15,7 +15,7 @@
 </p>
 - 🔭 I’m currently learning **Computer Vision, Data Science, Transfer learning**<br>
 - 📫 You can contact me <a href='https://sangram.aisaioit.in/#contact' target='_blank'>here</a><br>
-- 📄 Know about my experiences <a href='https://sangram.aisaioit.in/img/Sangram_Dighe_Resume_cv.pdf' target='_blank'>Resume Here</a><br>
+- 📄 Know about my experiences <a href='https://sangram.aisaioit.in/img/S%20D%20RESUME.pdf' target='_blank'>Resume Here</a><br>
 
 
 
